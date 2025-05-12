@@ -1,6 +1,7 @@
-#  Mean and variance of a discrete  distribution
-#  DATE:
+#  EXP NO: 01
 
+#  DATE:
+# Mean and variance of a discrete  distribution
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
