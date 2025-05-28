@@ -1,6 +1,6 @@
 #  EXP NO: 01
 
-#  DATE:
+#  DATE: 12.05.2025
 # Mean and variance of a discrete  distribution
 # Aim : 
 
